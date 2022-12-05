@@ -1,0 +1,803 @@
+3/20/2022, 5:27:46 PM - INFO - Server is running on port: 3030 
+3/20/2022, 6:47:26 PM - DEBUG - auth.service - login with username: admin (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:47:45 PM - INFO - Req from: admin (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:47:45 PM - ERROR - while finding user 62375ab1f71b232ee472da31 | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:47:45 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:49:57 PM - INFO - Req from: admin (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:49:57 PM - ERROR - while finding user 62375b35f71b232ee472da33 | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:49:57 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:52:54 PM - INFO - Server is running on port: 3030 
+3/20/2022, 6:52:55 PM - INFO - Server is running on port: 3030 
+3/20/2022, 6:55:59 PM - DEBUG - auth.service - login with username: admin (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:56:12 PM - INFO - Req from: admin (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:56:12 PM - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:56:12 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:59:43 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:00:07 PM - DEBUG - auth.service - login with username: admin (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:00:15 PM - INFO - Req from: admin (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:00:15 PM - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:00:15 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:01:52 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:01:53 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:02:12 PM - DEBUG - auth.service - login with username: admin (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:02:20 PM - INFO - Req from: admin (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:02:20 PM - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:02:20 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:07:23 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:07:36 PM - DEBUG - auth.service - login with username: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:07:45 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:07:45 PM - DEBUG - Emiting to user socket: undefined (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:25 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:26 PM - DEBUG - Emiting to user socket: undefined (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:33 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:49 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:49 PM - DEBUG - Emiting to user socket: undefined (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:09:17 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:11:08 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:27:19 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:29:09 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:35:22 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:36:39 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:37:32 PM - DEBUG - auth.service - login with username: admin (sid: z9lXXpPrp52-IdLYjHVHVFWBZOiFfeRF)
+3/20/2022, 7:37:38 PM - INFO - Req from: admin (sid: z9lXXpPrp52-IdLYjHVHVFWBZOiFfeRF)
+3/20/2022, 7:39:15 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:42:20 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:20:03 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:20:47 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:27:11 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:37:12 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:38:43 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:39:30 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:41:15 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:42:27 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:43:05 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:43:47 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:43:50 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:46:57 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:48:34 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:50:51 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:51:41 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:51:59 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:53:02 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:53:05 PM - ERROR - Cannot get reviews | ReferenceError: logger is not defined (sid: vyXp-ec_ueT_PLT5pYRBsT0ZzlgSg0SY)
+3/20/2022, 8:53:42 PM - INFO - Server is running on port: 3030 
+3/20/2022, 10:58:14 PM - ERROR - while finding user get | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 10:58:14 PM - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 10:59:14 PM - ERROR - while finding toy get | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 10:59:14 PM - ERROR - Failed to get toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:01:53 PM - DEBUG - auth.service - login with username: admin (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:01:53 PM - ERROR - Failed to Login Invalid username or password (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:04:14 PM - DEBUG - auth.service - signup with username: undefined, fullname: undefined (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:04:14 PM - ERROR - Failed to signup fullname, username and password are required! (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:05:29 PM - INFO - Server is running on port: 3030 
+3/20/2022, 11:05:40 PM - INFO - Server is running on port: 3030 
+3/20/2022, 11:05:48 PM - DEBUG - auth.service - signup with username: undefined, fullname: undefined (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:05:48 PM - ERROR - Failed to signup fullname, username and password are required! (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:30 PM - DEBUG - auth.service - signup with username: admin, fullname: admin (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:30 PM - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$wGBmI1MBxxPi3afyhF6hb.d7V2LPmofsZ4zMPpbv9oLJEVKlqZ3DK","fullname":"admin","score":100,"_id":"623797ce04f762623caaa756"} (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:30 PM - DEBUG - auth.service - login with username: admin (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:47 PM - WARN - admin Attempt to perform admin action (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:54 PM - INFO - Req from: admin (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/21/2022, 9:21:13 AM - INFO - Server is running on port: 3030 
+3/21/2022, 12:39:44 PM - DEBUG - auth.service - login with username: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:02 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:19 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:42 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:48 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:50:44 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:52:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:52:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:53:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:25 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:25 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:48 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:48 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:13:37 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:13:37 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:14:23 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:14:23 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:15:12 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:15:12 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:16:07 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:16:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:17:40 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:17:40 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:18:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:18:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:29:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:29:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:07:49 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:07:49 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:17:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:17:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:20:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:20:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:23:56 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:25:15 PM - DEBUG - auth.service - login with username: admin (sid: s-cOfb5iB4I9Pt5f0c8gwmtqreIoGdNv)
+3/21/2022, 2:25:20 PM - INFO - Req from: admin (sid: s-cOfb5iB4I9Pt5f0c8gwmtqreIoGdNv)
+3/21/2022, 2:29:31 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:49 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:50 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:55 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:01 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:01 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:01 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:04 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:04 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:23 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:25 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:25 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:42 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:44 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:42 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:34:55 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:56 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:56 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:57 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:58 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:58 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:58 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:35:16 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:36:27 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:19 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:38:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:49 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:50 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:50 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:51 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:40:03 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:41:54 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:37:38 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:39:09 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:40:17 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:40:53 PM - DEBUG - auth.service - login with username: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:41:05 PM - INFO - Req from: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:41:12 PM - INFO - Req from: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:41:16 PM - INFO - Req from: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:45:20 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:47:59 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:49:31 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:50:38 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:56:00 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:57:54 PM - INFO - Server is running on port: 3030 
+3/21/2022, 4:13:39 PM - DEBUG - auth.service - signup with username: yoni, fullname: Yoni (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/21/2022, 4:13:40 PM - DEBUG - auth.route - new account created: {"username":"yoni","password":"$2b$10$6gcvRvr3oV50A9I0EKl6p.OR2b6h0Lrke11234Z2wS.K09AcySTk2","fullname":"Yoni","score":100,"_id":"6238881468de5265648d03c1"} (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/21/2022, 4:13:40 PM - DEBUG - auth.service - login with username: yoni (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/21/2022, 4:14:23 PM - WARN - Yoni Attempt to perform admin action (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/28/2022, 2:19:06 PM - INFO - Server is running on port: 3030 
+3/28/2022, 2:57:06 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:14:49 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:15:04 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:18:26 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:19:01 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:21:36 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:21:36 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:21:36 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:25:35 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:25:35 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:25:35 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:27:30 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:27:35 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: z00v90wK_C4yiaVkAHTYvRIDZk-6OIjy)
+3/28/2022, 3:27:35 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: z00v90wK_C4yiaVkAHTYvRIDZk-6OIjy)
+3/28/2022, 3:27:35 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: z00v90wK_C4yiaVkAHTYvRIDZk-6OIjy)
+3/28/2022, 3:28:55 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:28:59 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:28:59 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:28:59 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:30:19 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:30:19 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:30:19 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:35:27 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:35:31 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: ElIqXlQh9SYWD7d2d1IDTTAO3Vf0dWlu)
+3/28/2022, 3:35:31 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: ElIqXlQh9SYWD7d2d1IDTTAO3Vf0dWlu)
+3/28/2022, 3:35:31 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: ElIqXlQh9SYWD7d2d1IDTTAO3Vf0dWlu)
+3/28/2022, 3:39:55 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:40:00 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:00 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:00 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:47 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:47 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:47 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:42:27 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:42:27 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:42:27 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:46 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:46 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:46 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:58 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:58 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:58 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:47:11 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:47:18 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: wmvbqSdqWWtCt2sJBWNtXgasenePe931)
+3/28/2022, 3:47:18 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: wmvbqSdqWWtCt2sJBWNtXgasenePe931)
+3/28/2022, 3:47:18 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: wmvbqSdqWWtCt2sJBWNtXgasenePe931)
+3/28/2022, 3:47:27 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:51:25 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:51:36 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: bgBt3uXe0K7awEPv0If15IMoSxKtophs)
+3/28/2022, 3:51:36 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: bgBt3uXe0K7awEPv0If15IMoSxKtophs)
+3/28/2022, 3:51:36 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: bgBt3uXe0K7awEPv0If15IMoSxKtophs)
+3/28/2022, 3:52:15 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:56:30 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:56:35 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:56:35 PM - DEBUG - auth.route - new account created: {"username":"Yoni","password":"$2b$10$bDAqcOJPu0DoR1SCKjRL1.rVF1Kwij.9PaArReyH2KUdGaVo7u7E6","fullname":"Yoni Lazarus","imgUrl":"https://res.cloudinary.com/cajan22a/image/upload/v1648369158/WhatsApp_Image_2022-03-27_at_11.02.12_gmtcrl.jpg","mentions":[],"_id":"6241b0830d38d04860549851"} (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:56:35 PM - DEBUG - auth.service - login with username: Yoni (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:58:44 PM - DEBUG - auth.service - login with username: Yoni (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:59:39 PM - DEBUG - auth.service - signup with username: Almog, fullname: Almog Ben-Binyamin (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:59:39 PM - DEBUG - auth.route - new account created: {"username":"Almog","password":"$2b$10$5nDcYv/Rxr0T4G32YxEFNubOml4cDHyz1ZgTEH8rbEfGLaOAgmsH.","fullname":"Almog Ben-Binyamin","imgUrl":"https://res.cloudinary.com/cajan22a/image/upload/v1648369158/WhatsApp_Image_2021-12-10_at_16.38.26_sft38h.jpg","mentions":[],"_id":"6241b13b0d38d04860549852"} (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:59:39 PM - DEBUG - auth.service - login with username: Almog (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:00:09 PM - DEBUG - auth.service - signup with username: Zviki, fullname: Zviki Zaks (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:00:09 PM - DEBUG - auth.route - new account created: {"username":"Zviki","password":"$2b$10$zAMZ.Sf4CRZKTXqfJ0lQaOULyp1f7XWGuYBx/dYBLRfD7WvMgZQW.","fullname":"Zviki Zaks","imgUrl":"https://res.cloudinary.com/cajan22a/image/upload/v1648369158/WhatsApp_Image_2022-03-27_at_11.17.15_rq2ja9.jpg","mentions":[],"_id":"6241b1590d38d04860549853"} (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:00:09 PM - DEBUG - auth.service - login with username: Zviki (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:09:17 PM - INFO - Req from: Zviki Zaks (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:12:26 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:13:17 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:14:33 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:15:25 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:19:11 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:22:51 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:29:15 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:29:34 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:30:49 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:31:34 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:31:59 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:32:05 PM - INFO - Server is running on port: 3030 
+3/28/2022, 5:09:17 PM - ERROR - while finding board undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: s1CB_YadeSono9DvItBosg14BtsDmMku)
+3/28/2022, 5:09:17 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: s1CB_YadeSono9DvItBosg14BtsDmMku)
+3/28/2022, 5:31:08 PM - INFO - Server is running on port: 3030 
+3/28/2022, 7:18:45 PM - INFO - Server is running on port: 3030 
+3/28/2022, 7:46:24 PM - ERROR - while finding board 5ZrbuH5v | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 7:46:24 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 7:49:16 PM - ERROR - while finding board undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 7:49:16 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 7:52:47 PM - ERROR - while finding board undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 7:52:47 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 7:56:57 PM - ERROR - while finding board undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 7:56:57 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: M5P-bnQPvQ7rgWcJUGdvrrveX8GrmRIe)
+3/28/2022, 8:01:26 PM - INFO - Server is running on port: 3030 
+3/28/2022, 8:02:04 PM - ERROR - while finding board undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 8EsGfEL8ZfDCsaliwovXw7QFe6vDRIhJ)
+3/28/2022, 8:02:04 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 8EsGfEL8ZfDCsaliwovXw7QFe6vDRIhJ)
+3/28/2022, 8:03:14 PM - INFO - Server is running on port: 3030 
+3/28/2022, 8:16:18 PM - INFO - Server is running on port: 3030 
+3/28/2022, 8:19:24 PM - INFO - Server is running on port: 3030 
+3/28/2022, 8:42:33 PM - INFO - Server is running on port: 3030 
+3/28/2022, 8:43:50 PM - INFO - Server is running on port: 3030 
+3/29/2022, 8:03:44 AM - INFO - Server is running on port: 3030 
+3/29/2022, 8:27:04 AM - DEBUG - auth.service - signup with username: Guest, fullname: Guest User (sid: 8FuGt25aUBkw4ytFcmGaFKO9iXFR62yo)
+3/29/2022, 8:27:05 AM - DEBUG - auth.route - new account created: {"username":"Guest","password":"$2b$10$h0vVUhHjj/1oXFuMaY3Q/.X81Hcrx9St39jDKXfkd1zia7VJ/ECVC","fullname":"Guest User","imgUrl":"","mentions":[],"_id":"624298a9e48762573484a9e5"} (sid: 8FuGt25aUBkw4ytFcmGaFKO9iXFR62yo)
+3/29/2022, 8:27:05 AM - DEBUG - auth.service - login with username: Guest (sid: 8FuGt25aUBkw4ytFcmGaFKO9iXFR62yo)
+3/29/2022, 8:51:05 AM - INFO - Server is running on port: 3030 
+3/29/2022, 8:56:02 AM - DEBUG - auth.service - login with username: Yoni (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:02:44 AM - INFO - Req from: Yoni Lazarus (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:04:05 AM - DEBUG - auth.service - login with username: Guest (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:39:59 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:43:50 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:52:56 AM - DEBUG - auth.service - login with username: Almog (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:52:56 AM - DEBUG - Setting (x8I1pmhj_JnkxugSAAAL) socket.userId = 6241b13b0d38d04860549852 
+3/29/2022, 9:57:45 AM - DEBUG - auth.service - login with username: Guest (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:57:45 AM - DEBUG - Setting (MPfCIRVFhwiM-NTLAAAN) socket.userId = 624298a9e48762573484a9e5 
+3/29/2022, 9:58:29 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 10:21:06 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 10:24:15 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 10:34:32 AM - INFO - Server is running on port: 3030 
+3/29/2022, 12:18:37 PM - INFO - Server is running on port: 3030 
+3/30/2022, 1:46:05 PM - INFO - Server is running on port: 3030 
+3/30/2022, 1:51:06 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:51:06 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:51:18 PM - DEBUG - auth.service - login with username: Yoni (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:51:18 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:51:18 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:56:59 PM - DEBUG - auth.service - login with username: Guest (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:56:59 PM - ERROR - while finding user Guest | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:56:59 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:58:00 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:58:00 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 1:58:00 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:01 PM - ERROR - while finding board b101 | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:01 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:01 PM - ERROR - while finding board b101 | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:01 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:12 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:12 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:21 PM - ERROR - while finding board b101 | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:21 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:21 PM - ERROR - while finding board b101 | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:21 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:27 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:27 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:27 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:27 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:33 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:00:33 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:31 PM - ERROR - cannot insert board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:31 PM - ERROR - Failed to add board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:31 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:31 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:31 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:31 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:36 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:36 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: IoXEUW1wkqtc2ve9brWyMfmmiMljCHXv)
+3/30/2022, 2:01:59 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:02:14 PM - ERROR - while finding board b101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 2KUw7LY51szIhHHEPzSo4V0Myy_IWm9X)
+3/30/2022, 2:02:14 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 2KUw7LY51szIhHHEPzSo4V0Myy_IWm9X)
+3/30/2022, 2:02:14 PM - ERROR - while finding board b101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:02:14 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:02:22 PM - ERROR - while finding board undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:02:22 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:02:33 PM - ERROR - while finding board b101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:02:33 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:02:33 PM - ERROR - while finding board b101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:02:33 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 6MOY6AlMMfpMtOGK-gSbkR19gXHH89uE)
+3/30/2022, 2:03:22 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:04:11 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: z7400dGSNtchBQl1FSzMYX1b4ZmejAZp)
+3/30/2022, 2:04:11 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: z7400dGSNtchBQl1FSzMYX1b4ZmejAZp)
+3/30/2022, 2:04:11 PM - ERROR - while finding board b101 | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:11 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:11 PM - ERROR - while finding board b101 | ReferenceError: logger is not defined (sid: z7400dGSNtchBQl1FSzMYX1b4ZmejAZp)
+3/30/2022, 2:04:11 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: z7400dGSNtchBQl1FSzMYX1b4ZmejAZp)
+3/30/2022, 2:04:17 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:17 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:28 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:28 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:37 PM - ERROR - cannot insert board | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:37 PM - ERROR - Failed to add board | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:37 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:37 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:37 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:04:37 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: _BTjroE4F3sWro2zZ-ZHul3ziiFiaGsW)
+3/30/2022, 2:07:03 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:07:20 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: f2hzLyUtAg9MWau0N6CwkHnW6w5gXXeA)
+3/30/2022, 2:07:20 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: f2hzLyUtAg9MWau0N6CwkHnW6w5gXXeA)
+3/30/2022, 2:07:20 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: mdi1mamEU2PavI8PBVOqq8vluyeTzdTU)
+3/30/2022, 2:07:20 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: mdi1mamEU2PavI8PBVOqq8vluyeTzdTU)
+3/30/2022, 2:09:08 PM - DEBUG - auth.service - login with username: Yoni (sid: mdi1mamEU2PavI8PBVOqq8vluyeTzdTU)
+3/30/2022, 2:09:08 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: mdi1mamEU2PavI8PBVOqq8vluyeTzdTU)
+3/30/2022, 2:09:08 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: mdi1mamEU2PavI8PBVOqq8vluyeTzdTU)
+3/30/2022, 2:09:55 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:10:45 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: HKxbLeeo-n-8br1BVTD3px6LE1ia3RPZ)
+3/30/2022, 2:10:45 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: HKxbLeeo-n-8br1BVTD3px6LE1ia3RPZ)
+3/30/2022, 2:14:00 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:18:18 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:18:35 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:18:44 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: csYN-bW8crsXuwk3BZsxxrJj98ga1SWd)
+3/30/2022, 2:18:44 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: csYN-bW8crsXuwk3BZsxxrJj98ga1SWd)
+3/30/2022, 2:18:48 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: csYN-bW8crsXuwk3BZsxxrJj98ga1SWd)
+3/30/2022, 2:18:49 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: csYN-bW8crsXuwk3BZsxxrJj98ga1SWd)
+3/30/2022, 2:19:03 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:19:36 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:19:46 PM - INFO - Server is running on port: 3030 
+3/30/2022, 2:24:06 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: xJhVrRC3Sl6B1DeL94z4MtHZFcuK6GMa)
+3/30/2022, 2:24:06 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: xJhVrRC3Sl6B1DeL94z4MtHZFcuK6GMa)
+3/30/2022, 2:24:26 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: xJhVrRC3Sl6B1DeL94z4MtHZFcuK6GMa)
+3/30/2022, 2:24:26 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: xJhVrRC3Sl6B1DeL94z4MtHZFcuK6GMa)
+3/30/2022, 2:24:29 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: xJhVrRC3Sl6B1DeL94z4MtHZFcuK6GMa)
+3/30/2022, 2:24:29 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: xJhVrRC3Sl6B1DeL94z4MtHZFcuK6GMa)
+3/30/2022, 2:24:48 PM - INFO - Server is running on port: 3030 
+3/30/2022, 3:20:39 PM - INFO - Server is running on port: 3030 
+3/30/2022, 3:21:06 PM - INFO - Server is running on port: 3030 
+3/30/2022, 3:21:59 PM - ERROR - while finding board 6241df2be6dd3c20bcbd4191 | ReferenceError: logger is not defined (sid: FGHgzi2DQUl6XoS_b2qB72QeW0aDDP-j)
+3/30/2022, 3:21:59 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: FGHgzi2DQUl6XoS_b2qB72QeW0aDDP-j)
+3/30/2022, 3:21:59 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: RyREyzNF2UnJod0Z_t2dR4B85MM8qKfE)
+3/30/2022, 3:21:59 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: RyREyzNF2UnJod0Z_t2dR4B85MM8qKfE)
+3/30/2022, 3:21:59 PM - ERROR - while finding board 6241df2be6dd3c20bcbd4191 | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:21:59 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:06 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:06 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:13 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:13 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:26 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:26 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:33 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:33 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:33 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:22:33 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:17 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:17 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:17 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:17 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:40 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:40 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:40 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:30:40 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:34:32 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:34:32 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:34:32 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:34:32 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: 61hnaiQ3OUDHywvBTTG9xOHX28K53g9b)
+3/30/2022, 3:38:09 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: DGplUEmPNdyViX60F6Vcj50jXCwu_b_L)
+3/30/2022, 3:38:09 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: DGplUEmPNdyViX60F6Vcj50jXCwu_b_L)
+3/30/2022, 3:39:42 PM - INFO - Server is running on port: 3030 
+3/30/2022, 3:40:00 PM - INFO - Server is running on port: 3030 
+3/30/2022, 3:40:17 PM - INFO - Server is running on port: 3030 
+3/30/2022, 3:40:26 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: wSCxRzSZ9Waiivtn8Ds165zD5lGc5e_0)
+3/30/2022, 3:40:26 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: wSCxRzSZ9Waiivtn8Ds165zD5lGc5e_0)
+3/30/2022, 3:40:26 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: _1QIgjt88A-M44sE0na41KuGC79rDhjM)
+3/30/2022, 3:40:26 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: _1QIgjt88A-M44sE0na41KuGC79rDhjM)
+3/30/2022, 3:40:31 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: _1QIgjt88A-M44sE0na41KuGC79rDhjM)
+3/30/2022, 3:40:31 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: _1QIgjt88A-M44sE0na41KuGC79rDhjM)
+3/30/2022, 3:40:31 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: _1QIgjt88A-M44sE0na41KuGC79rDhjM)
+3/30/2022, 3:40:31 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: _1QIgjt88A-M44sE0na41KuGC79rDhjM)
+3/30/2022, 3:41:17 PM - INFO - Server is running on port: 3030 
+3/30/2022, 3:52:42 PM - INFO - Server is running on port: 3030 
+3/30/2022, 4:20:32 PM - ERROR - while finding board undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 0q2RvLdZf9Z7bSHKrantxWERUDgEYva7)
+3/30/2022, 4:20:32 PM - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 0q2RvLdZf9Z7bSHKrantxWERUDgEYva7)
+3/30/2022, 6:26:11 PM - INFO - Server is running on port: 3030 
+3/30/2022, 6:27:16 PM - INFO - Server is running on port: 3030 
+3/30/2022, 6:27:28 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: ZOsGMi4kvFEhiJCqLOiFTmCQK9WfiUrF)
+3/30/2022, 6:27:28 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: ZOsGMi4kvFEhiJCqLOiFTmCQK9WfiUrF)
+3/30/2022, 6:27:28 PM - ERROR - while finding board undefined | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:27:28 PM - ERROR - Failed to get board | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:27:39 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:27:39 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:27:39 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:27:39 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:30:58 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:30:58 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:30:58 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:30:58 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: UBHpLkk75Z1gW_yv-GztdskBSGO-7dgB)
+3/30/2022, 6:31:35 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: dQYrU35AejXnyuRzbfTk5LUEEMzDeeTv)
+3/30/2022, 6:31:35 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: dQYrU35AejXnyuRzbfTk5LUEEMzDeeTv)
+3/30/2022, 6:34:26 PM - INFO - Server is running on port: 3030 
+3/30/2022, 6:34:39 PM - INFO - Server is running on port: 3030 
+3/30/2022, 6:34:49 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: vt-cntGIWivGHduz2Xy0n3-QSGR7qarI)
+3/30/2022, 6:34:49 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: vt-cntGIWivGHduz2Xy0n3-QSGR7qarI)
+3/30/2022, 6:34:49 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:34:49 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:35:02 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:35:02 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:35:31 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: sigxraXRSt9B54Rj2g7ydwcdVdC6SlCU)
+3/30/2022, 6:35:31 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: sigxraXRSt9B54Rj2g7ydwcdVdC6SlCU)
+3/30/2022, 6:36:53 PM - ERROR - cannot find boards | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:36:53 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:36:53 PM - ERROR - cannot find users | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:36:53 PM - ERROR - Failed to get users | ReferenceError: logger is not defined (sid: nl_Mj8P5Xfffdn6S5s6KUxfeae3ZF6CL)
+3/30/2022, 6:38:54 PM - INFO - Server is running on port: 3030 
+3/30/2022, 6:39:41 PM - INFO - Server is running on port: 3030 
+3/30/2022, 6:39:49 PM - INFO - Server is running on port: 3030 
+3/30/2022, 6:40:12 PM - INFO - Server is running on port: 3030 
+3/31/2022, 1:27:22 PM - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: WNcBOMsFu-IJ33LtHsdc_LAw9FpSAdOD)
+3/31/2022, 1:27:22 PM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: WNcBOMsFu-IJ33LtHsdc_LAw9FpSAdOD)
+3/31/2022, 1:27:22 PM - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: fgV_kYjG--zfuGR0vB28TtzdC88-QmyC)
+3/31/2022, 1:27:22 PM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: fgV_kYjG--zfuGR0vB28TtzdC88-QmyC)
+3/31/2022, 1:27:22 PM - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: fgV_kYjG--zfuGR0vB28TtzdC88-QmyC)
+3/31/2022, 1:27:22 PM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: fgV_kYjG--zfuGR0vB28TtzdC88-QmyC)
+3/31/2022, 1:27:22 PM - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: WNcBOMsFu-IJ33LtHsdc_LAw9FpSAdOD)
+3/31/2022, 1:27:22 PM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: WNcBOMsFu-IJ33LtHsdc_LAw9FpSAdOD)
+3/31/2022, 5:34:10 PM - INFO - Server is running on port: 3030 
+3/31/2022, 7:02:29 PM - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+01/04/2022, 16:13:03 - INFO - Server is running on port: 3030 
+01/04/2022, 17:04:28 - DEBUG - auth.service - login with username: almog (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 17:04:28 - ERROR - Failed to Login Invalid username or password (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 17:04:35 - DEBUG - auth.service - login with username: almog (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 17:04:35 - ERROR - Failed to Login Invalid username or password (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 17:04:52 - DEBUG - auth.service - login with username: Almog (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 17:04:53 - DEBUG - Setting (o75uiCUQoLimDSIjAAAH) socket.userId = 6246dc17a9952cc771cd056d 
+01/04/2022, 20:28:07 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 20:47:58 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 20:49:19 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 21:11:33 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 21:43:56 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 21:55:36 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 21:56:28 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:11:31 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:13:06 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:13:18 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:13:27 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:13:42 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:16:38 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:19:15 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:21:19 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:22:04 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:23:16 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:24:29 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:24:40 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+01/04/2022, 22:27:21 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 10:57:43 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:48 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:48 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:48 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:48 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:56 - INFO - Req from: Almog Ben-Binyamin (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:56 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:56 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:56 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:09:56 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: yf4UcZ1fTIwVH2n1YIWUaijAp-6bUBnH)
+02/04/2022, 11:10:25 - INFO - Server is running on port: 3030 
+02/04/2022, 11:10:31 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: XIYNcAPYMesNNJzLrMGTq5-3AIpOGA-f)
+02/04/2022, 11:10:31 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: XIYNcAPYMesNNJzLrMGTq5-3AIpOGA-f)
+02/04/2022, 11:10:31 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: JfoeQpdm7Pa3oiMUCXF4meG6DKpsipHc)
+02/04/2022, 11:10:31 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: JfoeQpdm7Pa3oiMUCXF4meG6DKpsipHc)
+02/04/2022, 20:58:03 - INFO - Server is running on port: 3030 
+02/04/2022, 20:58:17 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: nAIzEhwE2KfHNxz96ZIjK79X8p72SmDM)
+02/04/2022, 20:58:17 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: nAIzEhwE2KfHNxz96ZIjK79X8p72SmDM)
+02/04/2022, 20:58:17 - ERROR - while finding board b101 | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 4O8-j-uQwbVoUrJ4ww88HyoQ2z6oABpC)
+02/04/2022, 20:58:17 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 4O8-j-uQwbVoUrJ4ww88HyoQ2z6oABpC)
+03/04/2022, 9:13:32 - INFO - Server is running on port: 3030 
+03/04/2022, 10:25:19 - INFO - Server is running on port: 3030 
+03/04/2022, 18:49:31 - INFO - Server is running on port: 3030 
+03/04/2022, 21:03:36 - DEBUG - auth.service - login with username: Almog (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
+03/04/2022, 21:03:36 - DEBUG - Setting (0MK54eILby8ANpgFAAAp) socket.userId = 6246dc17a9952cc771cd056d 
+03/04/2022, 21:05:50 - INFO - Req from: Almog Ben-Binyamin (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
+03/04/2022, 21:06:24 - INFO - Req from: Almog Ben-Binyamin (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
+03/04/2022, 21:12:34 - INFO - Req from: Almog Ben-Binyamin (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
+=======
+<<<<<<< HEAD
+1.4.2022, 9:46:08 - INFO - Server is running on port: 3030 
+1.4.2022, 9:49:30 - DEBUG - auth.service - login with username: zviki (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:49:30 - ERROR - Failed to Login Invalid username or password (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:51:45 - DEBUG - auth.service - signup with username: zviki, fullname: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:51:45 - DEBUG - auth.route - new account created: {"username":"zviki","password":"$2b$10$FnlQo6FR8d2VLNVaJtY9WeoMpgQcd69fN/5meq/uVPc8unDKvbuWK","fullname":"Zviki Zaks","imgUrl":"","mentions":[],"_id":"6246a101686e395f1e748ece"} (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:51:45 - DEBUG - auth.service - login with username: zviki (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:53:05 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:55:12 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:21:22 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:21:30 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:23:54 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:26:52 - INFO - Server is running on port: 3030 
+1.4.2022, 10:27:51 - INFO - Server is running on port: 3030 
+1.4.2022, 17:05:37 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:37 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:38 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:38 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:41 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:41 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:45 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:45 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:45 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:53 - DEBUG - auth.service - login with username: Zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:53 - DEBUG - Setting (KnPQo1bRpgWo3vUfAAA_) socket.userId = 6246dc3fa9952cc771cd056e 
+1.4.2022, 17:09:07 - INFO - Req from: Zviki Zaks (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:17:05 - INFO - Req from: Zviki Zaks (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:19:06 - INFO - Req from: Zviki Zaks (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+2.4.2022, 20:45:42 - INFO - Server is running on port: 3030 
+2.4.2022, 22:46:25 - INFO - Server is running on port: 3030 
+2.4.2022, 22:47:44 - INFO - Server is running on port: 3030 
+2.4.2022, 22:50:28 - INFO - Server is running on port: 3030 
+2.4.2022, 22:51:49 - INFO - Server is running on port: 3030 
+2.4.2022, 22:52:22 - INFO - Server is running on port: 3030 
+3.4.2022, 1:12:17 - DEBUG - auth.service - login with username: Zviki (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:12:17 - DEBUG - Setting (mYbISDXdaThJoQzzAABV) socket.userId = 6246dc3fa9952cc771cd056e 
+3.4.2022, 1:16:43 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:22:10 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:25:05 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:56:14 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 2:01:17 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 2:02:31 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 9:17:47 - INFO - Server is running on port: 3030 
+3.4.2022, 12:49:58 - DEBUG - auth.service - login with username: Almog (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:49:58 - DEBUG - Setting (9CW_XMPCly7kD1-6AAAJ) socket.userId = 6246dc17a9952cc771cd056d 
+3.4.2022, 12:54:26 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:55:00 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:56:20 - DEBUG - auth.service - login with username: Zviki (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 12:56:20 - DEBUG - Setting (0UwRbYE8to22rFy1AAAH) socket.userId = 6246dc3fa9952cc771cd056e 
+3.4.2022, 12:56:33 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:58:30 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:01:01 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:01:03 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:01:26 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:01:26 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:05:27 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:05:30 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:05:42 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:05:43 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:08:38 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:08:41 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:09:49 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:09:49 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:51:11 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:52:56 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 16:46:39 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:39:40 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:41:26 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:55:06 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:58:05 - INFO - Server is running on port: 3030 
+3.4.2022, 17:59:23 - INFO - Server is running on port: 3030 
+3.4.2022, 18:00:29 - INFO - Server is running on port: 3030 
+3.4.2022, 18:02:02 - INFO - Server is running on port: 3030 
+3.4.2022, 18:03:40 - INFO - Server is running on port: 3030 
+3.4.2022, 18:29:38 - INFO - Server is running on port: 3030 
+3.4.2022, 18:31:00 - INFO - Server is running on port: 3030 
+3.4.2022, 18:51:20 - INFO - Server is running on port: 3030 
+3.4.2022, 18:52:54 - INFO - Server is running on port: 3030 
+3.4.2022, 18:55:48 - INFO - Server is running on port: 3030 
+3.4.2022, 19:02:22 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:22 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:24 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:24 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:49 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:49 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:50 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:50 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 22:40:08 - INFO - Server is running on port: 3030 
+3.4.2022, 22:45:35 - INFO - Server is running on port: 3030 
+=======
+3/31/2022, 10:45:33 PM - INFO - Server is running on port: 3030 
+4/1/2022, 8:50:04 AM - INFO - Server is running on port: 3030 
+4/1/2022, 9:44:08 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:08 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:53:56 AM - INFO - Server is running on port: 3030 
+4/1/2022, 9:54:12 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:12 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:12 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:12 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:44 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:44 AM - DEBUG - Setting (dmytILcw_lK8hFlaAAAF) socket.userId = 624477745c65423118015918 
+4/1/2022, 9:55:53 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:57:37 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:12 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:25 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:42 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:42 AM - DEBUG - Setting (HBz1AS_jynVZ_xfmAAAN) socket.userId = 624477745c65423118015918 
+4/1/2022, 9:59:01 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:02:45 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:03:07 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:03:07 AM - DEBUG - Setting (S3J9zg3d4APOHH8jAAAR) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:04:35 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:04:35 AM - DEBUG - Setting (S3J9zg3d4APOHH8jAAAR) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:07:11 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:08:41 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:08:41 AM - DEBUG - Setting (3saMJAbIgAV7lQwhAAAT) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:10:34 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:10:34 AM - DEBUG - Setting (3saMJAbIgAV7lQwhAAAT) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:13:08 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:13:08 AM - DEBUG - Setting (EP--a9yI7r3YKFyOAAAV) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:13:14 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:13:47 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:13:47 AM - DEBUG - Setting (IgP6zEBlHFEYQuagAAAZ) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:14:58 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:14:58 AM - DEBUG - Setting (IgP6zEBlHFEYQuagAAAZ) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:15:02 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:15:58 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:15:58 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:17:48 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:17:48 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:19:57 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:19:57 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:20:43 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:20:43 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:23:05 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:33:05 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:33:05 AM - DEBUG - Setting (kyAgI70bM-rgr47iAAAd) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:35:07 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:35:07 AM - DEBUG - Setting (kyAgI70bM-rgr47iAAAd) socket.userId = 624477745c65423118015918 
+4/1/2022, 11:01:31 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 11:25:34 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 11:35:39 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 12:11:42 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 12:29:24 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 12:59:06 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:41:03 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:49:35 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:53:49 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:57:29 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:09:38 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:09:44 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:10:04 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:12:58 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:45:15 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 3:09:01 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 3:52:52 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 3:59:15 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:23:55 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:43:46 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:44:41 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:44:53 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:46:43 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:49:56 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:54:55 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:55:49 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:57:12 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/2/2022, 7:51:52 PM - INFO - Server is running on port: 3030 
+4/2/2022, 9:19:22 PM - DEBUG - auth.service - login with username: Almog (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 9:19:22 PM - DEBUG - Setting (YgBrfg1RzrhsB2vgAAAd) socket.userId = 6246dc17a9952cc771cd056d 
+4/2/2022, 9:26:07 PM - DEBUG - auth.service - login with username: Zviki (sid: qHWvPYUzhlzOYzw9GNxIHW9k59WC3TOA)
+4/2/2022, 9:26:07 PM - DEBUG - Setting (Nhjy-HwpT0eLUdbMAAAb) socket.userId = 6246dc3fa9952cc771cd056e 
+4/2/2022, 9:45:12 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 9:45:25 PM - INFO - Req from: Zviki Zaks (sid: qHWvPYUzhlzOYzw9GNxIHW9k59WC3TOA)
+4/2/2022, 10:11:06 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:11:31 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:13:44 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:13:53 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:21:13 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:24:39 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:29:37 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:29:43 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:29:52 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:40:07 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:45:30 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:46:28 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:46:54 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:47:14 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:49:14 PM - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+4/3/2022, 1:22:37 AM - INFO - Server is running on port: 3030 
+4/3/2022, 12:57:44 PM - INFO - Server is running on port: 3030 
+4/3/2022, 7:44:47 PM - INFO - Server is running on port: 3030 
+=======
+>>>>>>> 2434bcf1086c2c726209bc443dc38984f34eb55c
+3.4.2022, 23:06:46 - INFO - Server is running on port: 3030 
+>>>>>>> 27e66716cfb961a268cdfea5787f09f854308f66
+>>>>>>> 4f6275d5741e1cb0100ecac9ace783a67e16209c
+04/04/2022, 14:20:00 - INFO - Req from: Almog Ben-Binyamin (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
+04/04/2022, 14:31:08 - INFO - Req from: Almog Ben-Binyamin (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
+04/04/2022, 14:53:31 - INFO - Req from: Almog Ben-Binyamin (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
+04/04/2022, 14:53:43 - INFO - Req from: Almog Ben-Binyamin (sid: xABjCMZ2I7xwGCpNBdLWQl69quzNVTCB)
